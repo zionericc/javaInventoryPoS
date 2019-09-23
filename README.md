@@ -1,4 +1,4 @@
-# Java - PoS Inventory Management Desktop Application using mySQL Database with Printer Integration
+# Java - PoS Inventory Management Desktop Application using mySQL Database with ESC/P Printer Integration
 
 - [x] Local Network functionality
 - [ ] Online functionality (Ongoing)
