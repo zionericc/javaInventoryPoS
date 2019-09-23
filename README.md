@@ -5,7 +5,7 @@
 
 ### Overview
 
-PoS Inventory Management Application made in Java using mySQL as database with Printer Integration (ESC/P). XAMPP is used for handling the mySQL database using phpMyAdmin. JDBC is used to connect java to the database.
+PoS Inventory Management Application made in Java using mySQL as database with ESC/P Printer Integration. XAMPP is used for handling the mySQL database using phpMyAdmin. JDBC is used to connect java to the database.
 
 This application has 6 main parts:
 
